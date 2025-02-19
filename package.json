@@ -16,9 +16,10 @@
     "url": "https://github.com/Luffy-135/Api_Car/issues"
   },
   "homepage": "https://github.com/Luffy-135/Api_Car#readme",
-  "description": "",
   "dependencies": {
     "json-serve": "^0.1.0",
     "node": "^23.8.0"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
